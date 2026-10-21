@@ -1,0 +1,4 @@
+interface:
+  display_name: "Miestų oras"
+  short_description: "Patikrina temperatūrą ir sąlygas 5 didžiuosiuose Lietuvos miestuose"
+  default_prompt: "Patikrink Gismeteo.lt ir pateik dabartinę temperatūrą bei oro sąlygas Vilniuje, Kaune, Klaipėdoje, Šiauliuose ir Panevėžyje."
