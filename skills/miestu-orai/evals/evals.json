@@ -1,0 +1,23 @@
+{
+  "skill_name": "miestu-orai",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Patikrink dabartinius orus penkiuose didžiausiuose Lietuvos miestuose ir palygink temperatūras.",
+      "expected_output": "Pateikta lentelė su Vilniumi, Kaunu, Klaipėda, Šiauliais ir Panevėžiu; kiekvienam miestui pateikta internete patikrinta dabartinė temperatūra, sąlygos ir šaltinio nuoroda.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Kokia dabar temperatūra Vilniuje, Kaune, Klaipėdoje, Šiauliuose ir Panevėžyje? Pridėk trumpą orų aprašymą.",
+      "expected_output": "Įgūdis tikrina dabartinius duomenis internete, pateikia visus penkis miestus lietuviškoje lentelėje ir nekuria nepatikrintų reikšmių.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Patikrink Lietuvos didžiųjų miestų orus. Jei vieno miesto duomenų nerasi, pateik kitų miestų duomenis ir pažymėk trūkstamą.",
+      "expected_output": "Įtraukti visi penki miestai; nepatikrinti duomenys aiškiai pažymėti, o kitų miestų rezultatai pateikti su šaltinių nuorodomis.",
+      "files": []
+    }
+  ]
+}
