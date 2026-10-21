@@ -1,0 +1,23 @@
+{
+  "skill_name": "porsche",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Patikrink, kokie Porsche automobiliai šiuo metu parduodami YoungtimerCar.eu, ir pateik kainas bei ridą.",
+      "expected_output": "Peržiūrėti visi prieinami skelbimų puslapiai, kiekvieno Porsche skelbimo individualiame puslapyje patikrinta aktyvi pardavimo būsena; pateikta lentelė su modeliu, kaina, rida ir tiesiogine nuoroda.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Ar YoungtimerCar.eu dar parduoda Porsche 911? Patikrink dabartinį skelbimą ir jo būseną.",
+      "expected_output": "Naudojamas dabartinis skelbimų puslapis ir individualus Porsche 911 skelbimas; nurodomi tik patikrinti duomenys bei tiesioginė nuoroda, o ne vien paieškos sistemos ištrauka.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Sudaryk visų dabar parduodamų Porsche sąrašą YoungtimerCar.eu. Neįtrauk parduotų automobilių.",
+      "expected_output": "Patikrinta visa puslapių navigacija ir kiekvieno Porsche individuali būsena; „Sold“ ir „Coming Soon“ automobiliai neįtraukti, o aprėpties trūkumai aiškiai nurodyti.",
+      "files": []
+    }
+  ]
+}
