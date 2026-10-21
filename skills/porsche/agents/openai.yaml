@@ -1,0 +1,4 @@
+interface:
+  display_name: "Porsche skelbimai"
+  short_description: "Patikrina aktyvius Porsche skelbimus YoungtimerCar.eu"
+  default_prompt: "Naudok $porsche ir patikrink visus YoungtimerCar.eu skelbimų puslapius. Pateik visus šiuo metu parduodamus Porsche automobilius su kainomis, rida ir nuorodomis."
