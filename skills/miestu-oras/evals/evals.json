@@ -1,0 +1,23 @@
+{
+  "skill_name": "miestu-oras",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Kokia dabar temperatūra ir kokie orai penkiuose didžiausiuose Lietuvos miestuose? Patikrink Gismeteo.lt.",
+      "expected_output": "Lietuviška lentelė su Vilniumi, Kaunu, Klaipėda, Šiauliais ir Panevėžiu; kiekvienam pateikta patikrinta dabartinė temperatūra, sąlygos ir Gismeteo nuoroda.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Palygink dabartinius orus Vilniuje, Kaune, Klaipėdoje, Šiauliuose ir Panevėžyje pagal Gismeteo. Kur šilčiausia?",
+      "expected_output": "Patikrinti visų penkių miestų dabartiniai rodmenys, šaltinių nuorodos ir šilčiausio miesto išvada tik pagal sulyginamas temperatūras.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Pažiūrėk Gismeteo.lt orus didžiuosiuose Lietuvos miestuose ir pateik trumpą suvestinę. Jei kuriam miestui duomenų nėra, nekurk jų.",
+      "expected_output": "Trumpa lentelė penkiems nustatytiems miestams; trūkstami ar nepatikrinami rodmenys aiškiai pažymėti, o ne išgalvoti.",
+      "files": []
+    }
+  ]
+}
