@@ -1,0 +1,4 @@
+interface:
+  display_name: "Miestų orai"
+  short_description: "Patikrina orus penkiuose didžiausiuose Lietuvos miestuose"
+  default_prompt: "Naudok $miestu-orai ir pateik dabartinę temperatūrą bei oro sąlygas Vilniuje, Kaune, Klaipėdoje, Šiauliuose ir Panevėžyje."
