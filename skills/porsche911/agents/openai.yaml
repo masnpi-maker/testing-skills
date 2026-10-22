@@ -1,0 +1,4 @@
+interface:
+  display_name: "Porsche 911 skelbimai"
+  short_description: "Randa aktyvius Porsche 911 skelbimus Autoplius.lt"
+  default_prompt: "Naudok $porsche911 ir patikrink visus Autoplius.lt Porsche 911 skelbimų puslapius. Pateik aktyvius skelbimus su kaina, metais, rida ir tiesioginėmis nuorodomis."
