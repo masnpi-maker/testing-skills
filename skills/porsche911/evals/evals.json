@@ -1,0 +1,23 @@
+{
+  "skill_name": "porsche911",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Patikrink, kokie Porsche 911 automobiliai šiuo metu parduodami Autoplius.lt. Pateik kainą, metus, ridą ir skelbimo nuorodą.",
+      "expected_output": "Peržiūrėti visi pasiekiami Porsche 911 rezultatų puslapiai; kiekvienas įtrauktas skelbimas patikrintas kaip aktyvus; pateikta lentelė su kaina, metais, rida ir tiesiogine nuoroda.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Ar Autoplius.lt yra parduodamų Porsche 911 iki 60 000 eurų? Patikrink dabartinius skelbimus.",
+      "expected_output": "Naudojamas dabartinis Autoplius.lt turinys, įtraukiami tik aktyvūs Porsche 911 skelbimai, kaina tikrinama pagal konkretų skelbimą, pateikiamos tiesioginės nuorodos ir nurodoma, jei duomenys ar aprėptis riboti.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Sudaryk visų šiuo metu Autoplius.lt parduodamų Porsche 911 sąrašą. Neįtrauk kitų Porsche modelių ir nebeaktyvių skelbimų.",
+      "expected_output": "Įtraukiami tik Porsche 911 modeliai, peržiūrima visa prieinama rezultatų puslapių navigacija, pašalinti nebeaktyvūs ir dubliuoti skelbimai, aprėpties apribojimai aiškiai įvardyti.",
+      "files": []
+    }
+  ]
+}
