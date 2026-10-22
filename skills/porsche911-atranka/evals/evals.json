@@ -1,0 +1,23 @@
+{
+  "skill_name": "porsche911-atranka",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Paleisk porsche ir porsche911, palygink aktyvius Porsche 911 skelbimus ir pateik TOP 3.",
+      "expected_output": "Paleisti abu šaltinių įgūdžiai; sujungti tik aktyvūs Porsche 911 skelbimai; dublikatai pašalinti; TOP 3 turi kainą, metus, ridą, priežastis ir tiesiogines nuorodas.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Iš abiejų šaltinių rask geriausią Porsche 911 iki 70 000 eurų ir dar du alternatyvius variantus.",
+      "expected_output": "Taikomas 70 000 eurų biudžetas; aiškiai atskiriami į biudžetą telpantys ir netelpantys automobiliai; pateikiama iki trijų aktyvių skelbimų ir kainų sąlygos.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Autoplius nepasiekiamas, bet YoungtimerCar pateikia kelis Porsche modelius. Atrink Porsche 911 ir pateik geriausius variantus.",
+      "expected_output": "Nurodyta, kad palyginimas dalinis, nes vienas įgūdis nepavyko; kitų Porsche modeliai atmesti; rekomendacijos pagrįstos tik patikrintais aktyviais 911 skelbimais.",
+      "files": []
+    }
+  ]
+}
