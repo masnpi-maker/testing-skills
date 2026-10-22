@@ -1,0 +1,4 @@
+interface:
+  display_name: "Porsche 911 TOP 3"
+  short_description: "Palygina porsche ir porsche911 rezultatus ir atrenka 3 geriausius Porsche 911"
+  default_prompt: "Paleisk esamus $porsche ir $porsche911 įgūdžius, sujunk aktyvius Porsche 911 skelbimus ir rekomenduok tris geriausius pagal kainos, metų, ridos ir specifikacijos balansą."
