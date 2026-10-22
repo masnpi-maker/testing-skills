@@ -1,0 +1,4 @@
+interface:
+  display_name: "Final911"
+  short_description: "Nuosekliai paleidžia Porsche paieškos ir TOP 3 atrankos įgūdžius."
+  default_prompt: "Paleisk Final911 workflow ir pateik galutinę Porsche 911 pasiūlymų atranką."
